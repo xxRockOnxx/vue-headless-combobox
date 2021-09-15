@@ -20,6 +20,8 @@ yarn add vue-headless-comboboxvue
 
 Check out the simple example application in the `dev` folder. [Link](./dev/App.vue).
 
+The App is also hosted at CodePen. [Link](https://codepen.io/captainskippah/pen/rNwYWWw).
+
 ## Contributing
 
 Feel free opening Issues or Pull Requests. I'll check them out **whenever** I can.
