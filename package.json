@@ -1,6 +1,6 @@
 {
   "name": "vue-headless-combobox",
-  "version": "1.0.0",
+  "version": "1.0.6",
   "description": "A headless ComboBox Vue.js component that is fully accessible.",
   "main": "dist/vue-headless-combobox.umd.js",
   "module": "dist/vue-headless-combobox.esm.js",
