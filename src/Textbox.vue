@@ -56,8 +56,7 @@ export default {
           this.focusPrevious();
           break;
         case "Enter":
-          evt.preventDefault();
-          this.selectFocused();
+          this.selectFocused(evt);
           break;
         case "Escape":
           this.query = "";
@@ -99,11 +98,12 @@ export default {
       }
     },
 
-    selectFocused() {
+    selectFocused(evt) {
       if (this.getFocusedIndex() === null) {
         return
       }
 
+      evt.preventDefault();
       this.selectSuggestion(this.getSuggestions()[this.getFocusedIndex()]);
     },
   },
