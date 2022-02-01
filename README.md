@@ -13,7 +13,7 @@ You have complete control of whether the suggestions should be open, if you have
 npm install vue-headless-combobox
 
 # Yarn
-yarn add vue-headless-comboboxvue
+yarn add vue-headless-combobox
 ```
 
 ## Example
