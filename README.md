@@ -1,5 +1,8 @@
 # vue-headless-combobox
 
+![npm](https://img.shields.io/npm/v/vue-headless-combobox)
+![npm](https://img.shields.io/npm/dm/vue-headless-combobox)
+
 A headless ComboBox Vue.js component that is fully accessible.
 
 Inspired from [WAI-ARIA ComboBox example](https://w3c.github.io/aria-practices/examples/combobox/combobox-autocomplete-list.html).
